@@ -1,2 +1,3 @@
 # finnanceaoo
 # finnanceaoo
+# .venv
